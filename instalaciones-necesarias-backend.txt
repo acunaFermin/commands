@@ -1,0 +1,7 @@
+npm install bcryptjs cors dotenv express express-validator jsonwebtoken mongoose
+
+dotenv: para config varibles de entorno
+
+mongoose: un orm que sirve para interactuar con mongoDB
+
+cada uno de los paquetes anteriores tiene su documentacion en NPM. LEER

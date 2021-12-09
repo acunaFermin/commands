@@ -1,0 +1,5 @@
+ionic start componentes blank // iniciar proyecto llamado "componentes" y con el template "blank"
+ionic serve // levanta la app en el puerto 8100 por default
+ionic g page pages/inicio --spec=false // generar pagina "inicio" en carpeta pages sin arch pruebas
+
+--dry-run // agregar al final de la linea para previsualizar antes de generar el codigo.
